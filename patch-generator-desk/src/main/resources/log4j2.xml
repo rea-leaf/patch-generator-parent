@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration  status="info" packages="com.empire.patch.generator.desk.appender">
+	<Properties>
+		<Property name="log_path">logs</Property>
+		<Property name="base_layout"> %d{yyyy-MM-dd HH:mm:ss} %5p %c{10}\:%L \: %m%n</Property>
+		<Property name="simple_layout">%d{yyyy-MM-dd HH:mm:ss} %5p %c{10}\:%L \: %m%n
+		</Property>
+	</Properties>
+	<Appenders>
+		<Console name="console" target="SYSTEM_OUT" >
+			<PatternLayout pattern="${base_layout}" />
+		</Console>
+		
+		<RollingFile name="dailyFile" fileName="${log_path}/app.log"
+			filePattern="${log_path}/app-%d{yyyy-MM-dd}.log">
+			<PatternLayout pattern="${base_layout}" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" />
+				<SizeBasedTriggeringPolicy size="100 MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="20" />
+		</RollingFile>
+		 <!-- 这个就是自定义的Appender -->
+                <GUIConsoleAppender  name="guiConsoleAppender">
+                    <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] [%-5p] {%F:%L} - %m%n" />
+                </GUIConsoleAppender>
+	</Appenders>
+	<Loggers>
+		<!-- Application Loggers -->
+		<logger name="com.empire" level="info"></logger>
+		<Root level="info">
+			<AppenderRef ref="console" />
+			<AppenderRef ref="dailyFile" />
+			<AppenderRef ref="guiConsoleAppender" />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,135 @@
+2019-05-28 17:39:00  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:2388 : 当前文件路径：C:\Users\chenhf\Desktop\svn打包;当前文件名：svn打包
+2019-05-28 17:39:00  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1850 : C:\Users\chenhf\Desktop\svn打包
+2019-05-28 17:39:00  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1898 : 配置文件类型文件导入成功！
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : 版本:13735,作者:chenhuafu,时间:2019-05-27T16:57:50.472+0800
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : 提交消息:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/mapper/OrderOpt.xml
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : 版本:13737,作者:chenhuafu,时间:2019-05-27T17:08:24.297+0800
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : 提交消息:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.SvnPatchGenerator:75 : 生成补丁包:C:\Users\chenhf\Desktop\test\2019-05-28-05-39-03.zip
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.GeneratePatchExecutor:39 : 生成补丁成功
+2019-05-28 17:39:04  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1779 : 打包完成
+2019-05-28 17:41:26  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:2393 : 没有选中文件
+2019-05-28 17:41:37  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:2388 : 当前文件路径：C:\Users\chenhf\Desktop\svn打包;当前文件名：svn打包
+2019-05-28 17:41:37  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1850 : C:\Users\chenhf\Desktop\svn打包
+2019-05-28 17:41:37  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1898 : 配置文件类型文件导入成功！
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : 版本:13735,作者:chenhuafu,时间:2019-05-27T16:57:50.472+0800
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : 提交消息:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/mapper/OrderOpt.xml
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : 版本:13737,作者:chenhuafu,时间:2019-05-27T17:08:24.297+0800
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : 提交消息:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 17:41:41  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 17:41:42  INFO com.mozi.patch.generator.SvnPatchGenerator:75 : 生成补丁包:C:\Users\chenhf\Desktop\test\版本号【13735-13737】2019-05-28-05-41-40.zip
+2019-05-28 17:41:42  INFO com.mozi.patch.generator.GeneratePatchExecutor:39 : 生成补丁成功
+2019-05-28 17:41:42  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1779 : 打包完成
+2019-05-28 18:02:24  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:2388 : 当前文件路径：C:\Users\chenhf\Desktop\svn打包;当前文件名：svn打包
+2019-05-28 18:02:24  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1850 : C:\Users\chenhf\Desktop\svn打包
+2019-05-28 18:02:24  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1898 : 配置文件类型文件导入成功！
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : ����:13735,浣���:chenhuafu,�堕��:2019-05-27T16:57:50.472+0800
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : ��浜ゆ���:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/mapper/OrderOpt.xml
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : ����:13737,浣���:chenhuafu,�堕��:2019-05-27T17:08:24.297+0800
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : ��浜ゆ���:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 18:02:27  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 18:02:28  INFO com.mozi.patch.generator.SvnPatchGenerator:75 : ����琛ヤ���:C:\Users\chenhf\Desktop\test\�����枫��13735-13737��2019-05-28-06-02-26.zip
+2019-05-28 18:02:28  INFO com.mozi.patch.generator.GeneratePatchExecutor:39 : ����琛ヤ�����
+2019-05-28 18:02:28  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1779 : 打包完成
+2019-05-28 18:48:29  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:2393 : 没有选中文件
+2019-05-28 18:48:29  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1850 : null
+2019-05-28 18:49:15  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:2388 : 当前文件路径：C:\Users\chenhf\Desktop\svn打包;当前文件名：svn打包
+2019-05-28 18:49:15  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1850 : C:\Users\chenhf\Desktop\svn打包
+2019-05-28 18:49:15  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1898 : 配置文件类型文件导入成功！
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : 鐗堟湰:13735,浣滆��:chenhuafu,鏃堕棿:2019-05-27T16:57:50.472+0800
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : 鎻愪氦娑堟伅:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/mapper/OrderOpt.xml
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:53 : 鐗堟湰:13737,浣滆��:chenhuafu,鏃堕棿:2019-05-27T17:08:24.297+0800
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:55 : 鎻愪氦娑堟伅:﻿【提交类型】:修改
+【问题描述】:
+【修改内容】:
+ 1、医嘱成组标识更新
+【影响模块】:
+【BUG 编号】:
+【需要测试】:是/否
+【审核编号】：
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-dao/src/main/java/com/mozi/corex/his/dao/write/OrderOptDao.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-web/src/main/java/com/mozi/corex/his/web/OrderHandler.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/impl/OrderService.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchObjectReceiver:79 : M:/CoreXServer/dev_code/trunk/corex-parent/corex-service/src/main/java/com/mozi/corex/his/service/IOrderService.java
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.SvnPatchGenerator:75 : 鐢熸垚琛ヤ竵鍖�:C:\Users\chenhf\Desktop\test\鐗堟湰鍙枫��13735-13737銆�2019-05-28-06-49-19.zip
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.GeneratePatchExecutor:39 : 鐢熸垚琛ヤ竵鎴愬姛
+2019-05-28 18:49:20  INFO com.mozi.patch.generator.desk.GeneratorMainJFrame:1779 : 打包完成
