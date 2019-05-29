@@ -1,3 +1,5 @@
+#  **说明 https://gitee.com/hackempire/patch-generator-desk 进行了二次修改  一下为原项目说明
+
 #  **patch-generator-desk** 【技术QQ群：456742016】
 
 项目增量补丁包神器：全自动web增量打包发版，支持git/svn，支持多模块项目。
